@@ -49,18 +49,15 @@ select* from covid_vaccinated;
 
 SELECT * FROM covid_data;
 
--- add mysql data format for date column
-alter table covid_deaths
-modify column `date` date;
 
 select location,  `date`, total_cases, new_cases, total_deaths, population
 from covid_deaths;
 
 -- covid death percentage 
-CREATE VIEW DEATH_PERCENTAGE AS(
+
 select iso_code,`date`, continent, location, total_deaths/total_cases*100 death_percentage
 from covid_deaths
-);
+;
 
 select * from death_percentage;
 
@@ -71,10 +68,10 @@ where location = 'India';
 
 
 -- cases percentage by population
-create view cases_in_percentage as(
+
 select iso_code, continent,location,`date`,total_cases/population*100 cases_percentage
 from covid_deaths
-);
+;
 
 select * from cases_in_percentage;
 
@@ -122,12 +119,11 @@ from covid_deaths
 where location = 'India' 
 group by 2,1;
 
-drop view covid_detail;
-create view covid_detail as (
+
 select continent, sum(new_cases) total_cases, sum(new_deaths) total_deaths from covid_deaths
 where location is not null and continent is not null
-group by 1
-);
+group by 1;
+
 select * from covid_detail;
 ----
 -----
