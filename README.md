@@ -19,4 +19,36 @@ Diarrhea.
 Additional symptoms are possible.
 
 OBJECTIVE:
-To analyse and create reports for the covid situation worldwide along with india's covid report. exploratory analysis are being done with having major foucus areas like covid deaths, cases, vaccinations, booster jibes, death percentage, cases percentage, top vaccination nations.
+To analyse and create reports for the covid situation worldwide along with india's covid report. exploratory analysis are being done having major foucus areas like covid deaths, cases, vaccinations, booster jibes, death percentage, cases percentage, top vaccination nations.
+
+DATASET DESCRIPTION:
+
+COVID DATA USED FOR THE ANALYSIS CAME FROM THE OPEN SOURCE WEBSITE LINK (https://ourworldindata.org/covid-deaths), THIS DATA IS FROM 1ST JAN 2020 TO 29TH AUG 2022. I HAVE SEPERATED THIS DATA INTO TWO DATASET ONE IS COVID_DEATHS DATASET AND ANOTHER IS COVID_VACCINATED DATASET (BOTH OF DATASETS ARE ATTACHED WITH COMMA SEPRATED VALUES EXTENSION) FOR 
+
+
+FIELDS                                                    DISC
+
+iso_code                                           country name abbrevation, 
+continent                                           name of the continent, 
+location                                            full country name, 
+`date`                                              date, 
+total_cases                                         no of total cases, 
+new_cases                                           no of new cases, 
+total_deaths                                        no of total deaths, 
+new_deaths                                          no of new death, 
+population                                          total population of the country, 
+icu_patients                                        no of icu_patients, 
+hosp_patients                                       no of hospitalize patients, 
+weekly_icu_admissions                               no of weekly_icu_admissions, 
+weekly_hosp_admissions                              no of weekly_hospitalized_admissions, 
+new_tests                                           no of tests, 
+positive_rate                                       covid positive rate, 
+total_vaccinations                                  total_vaccinations, 
+people_vaccinated                                   no of people vacinated, 
+people_fully_vaccinated                             fully vaccinated people, 
+total_boosters                                      total boosters jibes, 
+new_vaccinations                                    new vaccinations, 
+aged_65_older                                       people over 65 years, 
+median_age                                          median age, 
+aged_70_older                                       people over 70 years, 
+gdp_per_capita                                      gdp_per_capita of country
