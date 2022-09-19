@@ -62,3 +62,9 @@ it is a cloud-based data storage and analytics service, generally termed "data-a
 Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence. It is part of the Microsoft Power Platform. Power BI is a collection of software services, apps, and connectors that work together to turn unrelated sources of data into coherent, visually immersive, and interactive insights. Data may be input by reading directly from a database, webpage, or structured files such as spreadsheets, CSV, XML, and JSON.
 
 ANALYSIS TASKS:
+
+* using sql query in snowflake find percentage of death and covid cases in india, percentage of covid cases and deaths worlwide, total death count and cases count, leading covid cases country worldwide, leading covid death coutryworldwide, top 10 vaccinated countries and top 10 booster jibe providing coutries etc
+
+*After using all these sql query and fetching these data into POWER BI  then creatE bar chart, line chart, column chart, filled map, table chart for india's covid scenario along with world covid scenario.
+
+
