@@ -1,5 +1,5 @@
 # COVID_ANALYSIS USING SQL QUERIES
-
+![](Screenshot%20(12).png)
 ---------------------------------
 DESCRIPTION
 
