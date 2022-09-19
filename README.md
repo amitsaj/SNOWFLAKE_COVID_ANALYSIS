@@ -65,6 +65,25 @@ ANALYSIS TASKS:
 
 * using sql query in snowflake find percentage of death and covid cases in india, percentage of covid cases and deaths worlwide, total death count and cases count, leading covid cases country worldwide, leading covid death coutryworldwide, top 10 vaccinated countries and top 10 booster jibe providing coutries etc
 
-*After using all these sql query and fetching these data into POWER BI  then creatE bar chart, line chart, column chart, filled map, table chart for india's covid scenario along with world covid scenario.
+* After using all these sql queries and importing the queries to POWER BI, I created bar chart, line chart, column chart, filled map, table chart for the given query
+using power bi and further creating power bi reports for my analysis.
+
+
+CONCLUSION
+* After completing analysis it is clearly visible that north america is leading covid death cases and leading covid cases continent worldwide with in which united state of america is leading covid death and cases country. while asia is at the second position.
+* India is the second highest covid cases country in the world while 3rd highest in covid death cases while brazil is second highest covid death cases country in the world.
+* top 3 vaccination providers are 
+1 = china 
+2 = india
+3 = USA
+* top 3 booster jibe providers are
+1 = china
+2 = india
+3 = USA
+* highest hospitalize patients and icu patients are from Europe and North america respectively.
+* highest covid cases for a single month is on january 2022 which is around 380 million cases while maximum covid death on a single month occured on jan 2021.
+* maximum covid death and covid cases in india occure in year 2021 which are 325k and 24.6 million respectively.
+* 
+
 
 
