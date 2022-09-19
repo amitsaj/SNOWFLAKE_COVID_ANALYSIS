@@ -52,3 +52,13 @@ aged_65_older                                       avg people over 65 years,
 median_age                                          median age, 
 aged_70_older                                       avg people over 70 years, 
 gdp_per_capita                                      gdp_per_capita of country
+
+TOOLS/SOFTWARE USES FOR ANALYSIS:
+* SNOWFLAKE:
+Snowflake is a cloud computing–based data cloud service. It was founded in July 2012 and was publicly launched in October 2014 
+it is a cloud-based data storage and analytics service, generally termed "data-as-a-service". It allows corporate users to store and analyze data using cloud-based hardware and software.
+
+* POWER BI:
+Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence. It is part of the Microsoft Power Platform. Power BI is a collection of software services, apps, and connectors that work together to turn unrelated sources of data into coherent, visually immersive, and interactive insights. Data may be input by reading directly from a database, webpage, or structured files such as spreadsheets, CSV, XML, and JSON.
+
+ANALYSIS TASKS:
