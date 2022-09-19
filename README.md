@@ -69,6 +69,7 @@ ANALYSIS TASKS:
 * After using all these sql queries and importing the queries to POWER BI, I created bar chart, line chart, column chart, filled map, table chart for the given query
 using power bi and further creating power bi reports for my analysis.
 
+* POWER BI LINK OF REPORT: https://app.powerbi.com/groups/me/reports/f98cc691-6fef-45f4-8d1f-74e09e4f6726/ReportSection
 
 CONCLUSION
 * After completing analysis it is clearly visible that north america is leading covid death cases and leading covid cases continent worldwide with in which united state of america is leading covid death and cases country. while asia is at the second position.
