@@ -23,7 +23,7 @@ To analyse and create reports for the covid situation worldwide along with india
 
 DATASET DESCRIPTION:
 
-COVID DATA USED FOR THE ANALYSIS CAME FROM THE OPEN SOURCE WEBSITE LINK (https://ourworldindata.org/covid-deaths), THIS DATA IS FROM 1ST JAN 2020 TO 29TH AUG 2022. I HAVE SEPERATED THIS DATA INTO TWO DATASET ONE IS COVID_DEATHS DATASET AND ANOTHER IS COVID_VACCINATED DATASET (BOTH OF DATASETS ARE ATTACHED WITH COMMA SEPRATED VALUES EXTENSION) FOR 
+COVID DATA USED FOR THE ANALYSIS CAME FROM THE OPEN SOURCE WEBSITE (https://ourworldindata.org/covid-deaths), THIS DATA IS FROM 1ST JAN 2020 TO 29TH AUG 2022. I HAVE SEPERATED THIS DATA INTO TWO DATASET ONE IS COVID_DEATHS DATASET AND ANOTHER COVID_VACCINATED DATASET (BOTH OF DATASETS ARE ATTACHED WITH COMMA SEPRATED VALUES EXTENSION) FOR DOING SPECIFIC ANALYSIS ON DESIRED FIELDS ONLY AS THIS DATASET CONTAINS A LOT OF PARAMETERS/FIELDS WHICH CAN DIVERGE THE DESIRED ANALYSIS. 
 
 
 FIELDS                                                    DISC
@@ -48,7 +48,7 @@ people_vaccinated                                   no of people vacinated,
 people_fully_vaccinated                             fully vaccinated people, 
 total_boosters                                      total boosters jibes, 
 new_vaccinations                                    new vaccinations, 
-aged_65_older                                       people over 65 years, 
+aged_65_older                                       avg people over 65 years, 
 median_age                                          median age, 
-aged_70_older                                       people over 70 years, 
+aged_70_older                                       avg people over 70 years, 
 gdp_per_capita                                      gdp_per_capita of country
