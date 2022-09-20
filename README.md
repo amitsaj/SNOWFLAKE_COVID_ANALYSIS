@@ -20,7 +20,7 @@ Diarrhea.
 Additional symptoms are possible.
 
 OBJECTIVE:
-To analyse and create reports for the covid situation worldwide along with india's covid report. exploratory analysis are being done having major foucus areas like covid deaths, cases, vaccinations, booster jibes, death percentage, cases percentage, top vaccination nations.
+To analyse and create reports for the covid situation worldwide along with india's covid report. exploratory analysis are being done having major focus areas like covid deaths, cases, vaccinations, booster jibes, death percentage, cases percentage, top vaccination nations.
 
 DATASET DESCRIPTION:
 
